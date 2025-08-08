@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "759793103912",
+    "project_id": "babylonproject-a0887",
+    "storage_bucket": "babylonproject-a0887.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759793103912:android:7784bfed57893c58e2711d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6PQgEryOHiTuHPjrh2ndLnVBNQO3hAW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
